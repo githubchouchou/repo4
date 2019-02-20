@@ -10,10 +10,13 @@ public class FirstClass {
         System.out.println("heiheihei");
         System.out.println("heiheihei");
         System.out.println("heiheihei");
+        //123
     }
 
     public void test(){
         int i=0;
         i+=10;
+        System.out.println(i);
+
     }
 }
